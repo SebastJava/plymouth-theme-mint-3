@@ -9,7 +9,8 @@ These are 3 new versions to choose from for your animated boot screen. These log
 | ------------- | ------------- | ------------- |
 | ![badge](sources/badge-src.svg) | ![trident](sources/trident-src.svg) | ![Y-negative](sources/Y-negative-src.svg) |
 
----
+This is all unofficial. I just needed a bigger logo for my startup screen, and then i added my special editions...
+
 ---
 
 ![Permissions-howto](Permissions-program.png)
