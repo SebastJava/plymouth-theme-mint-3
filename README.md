@@ -15,12 +15,12 @@ This is all based on the same two-step engine as the current mint-logo Plymouth 
 
 1. [Download ZIP here](https://github.com/SebastJava/plymouth-theme-mint-3/archive/refs/heads/main.zip) (OR click on top-right green button "Code" and then click on "Download ZIP".)
 1. Extract this entire zip.
-1. Run one of these 3 installers in your terminal: `INSTALLER-badge.sh`, `INSTALLER-trident.sh`, or `INSTALLER-Y-neg.sh`. (Check [Troubleshooting](https://github.com/SebastJava/plymouth-theme-mint-3#troubleshooting) if needed...)
+1. Run one of these 3 installers in your terminal: `INSTALLER-badge.sh`, `INSTALLER-trident.sh`, or `INSTALLER-Y-neg.sh`. (Check [Troubleshooting](https://github.com/SebastJava/plymouth-theme-mint-3?tab=readme-ov-file#troubleshooting) if needed...)
 1. Restart and check the results!
 
 ### How to revert to the original mint-logo
 
-1. Run `REVERT.sh` in your terminal. (Check [Troubleshooting](https://github.com/SebastJava/plymouth-theme-mint-3#troubleshooting) if needed...)
+1. Run `REVERT.sh` in your terminal. (Check [Troubleshooting](https://github.com/SebastJava/plymouth-theme-mint-3?tab=readme-ov-file#troubleshooting) if needed...)
 1. Restart and check the results!
 
 ### Extras: login screen and menu icon
