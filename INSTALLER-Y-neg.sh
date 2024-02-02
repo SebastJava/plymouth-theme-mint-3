@@ -12,6 +12,12 @@ echo
 sudo update-alternatives --install /usr/share/plymouth/themes/default.plymouth default.plymouth /usr/share/plymouth/themes/mint-logo-Y-neg/mint-logo-Y-neg.plymouth 200 &&
 sudo update-alternatives --set default.plymouth /usr/share/plymouth/themes/mint-logo-Y-neg/mint-logo-Y-neg.plymouth &&
 sudo update-initramfs -u
+# Extras
+sudo mkdir -p /usr/share/icons/SebastJava-logo &&
+sudo cp -f extras/badge-symbolic.svg extras/trident-symbolic.svg extras/Y-negative-symbolic.svg /usr/share/icons/SebastJava-logo
+sudo mkdir -p /usr/share/backgrounds &&
+sudo cp -f extras/login-WP-badge-v2.svg extras/login-WP-trident-v2.svg extras/login-WP-Y-neg-v2.svg /usr/share/backgrounds
+# Preview
 echo
 echo "INSTALLATION COMPLETED !"
 echo
