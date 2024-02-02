@@ -8,18 +8,20 @@ These are 3 new versions to choose from for your animated boot screen. These log
 | mint-logo-badge  | mint-logo-trident | mint-logo-Y-negative  |
 | ------------- | ------------- | ------------- |
 | ![badge](sources/badge-src.svg) | ![trident](sources/trident-src.svg) | ![Y-negative](sources/Y-negative-src.svg) |
-| | | |
+
+---
+---
 
 ![Permissions-howto](Permissions-program.png)
 
 ### How to install
 1. [Download ZIP here](https://github.com/SebastJava/plymouth-theme-mint-3/archive/refs/heads/main.zip) (OR click on top-right green button "Code" and then click on "Download ZIP".)
 1. Extract this entire zip.
-1. Run one of these 3 installers in your terminal: badge, trident, or Y-negative version. (Check screenshot above for permissions if needed...)
+1. Run one of these 3 installers in your terminal: `INSTALLER-badge.sh`, `INSTALLER-trident.sh`, or `INSTALLER-Y-neg.sh`. (Check screenshot above for permissions if needed...)
 1. Restart and check the results!
 
 ### How to revert to the original mint-logo
-1. Run REVERT.sh in your terminal. (Check screenshot above for permissions if needed...)
+1. Run `REVERT.sh` in your terminal. (Check screenshot above for permissions if needed...)
 1. Restart and check the results!
 
 ### How to check things (optional)
